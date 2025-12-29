@@ -1,4 +1,4 @@
-# Product Management System 
+# Product Management System - using springboot
 
 A **Product Management System** built using **Java and Spring Boot** that performs **CRUD (Create, Read, Update, Delete)** operations on products.  
 The project demonstrates the implementation of RESTful APIs using Spring Boot, connected to a database (e.g., MySQL) with Spring Data JPA for data persistence and interaction.
